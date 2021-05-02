@@ -1,0 +1,17 @@
+.main-container {
+  display: flex;
+}
+
+.child-container {
+  height: 100vh;
+  overflow: scroll;
+}
+.left-side-menu-container {
+  flex: 0.5;
+  background: lightgray;
+}
+
+.sample-render-container {
+  flex: 2;
+  background: lightgray;
+}

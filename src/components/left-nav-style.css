@@ -1,0 +1,14 @@
+.item-container {
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.item {
+    height: 2rem;
+    background: lightskyblue;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 1rem;
+    /* text-align: center; */
+}
